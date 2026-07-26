@@ -42,9 +42,6 @@ This repository documents my learning journey from fundamental NumPy operations 
 - OpenCV
 - ROS 2
 - Vehicle Dynamics
-- PID Control
-- Pure Pursuit
-- Kalman Filter
 - Model Predictive Control (MPC)
 
 ---
